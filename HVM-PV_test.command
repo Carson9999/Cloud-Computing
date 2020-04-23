@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo apt-get install sysbench
 for i in 1 2 3
 do
   echo "========================================="
